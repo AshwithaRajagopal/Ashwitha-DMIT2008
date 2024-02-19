@@ -1,0 +1,244 @@
+{
+	"todos": {
+		"-NqzDlx4ZP7nY-CNPiJ_": {
+			"uid": "5bb3cab2",
+			"category": "id.no",
+			"status": "CompletedVerification",
+			"todo": "error: Field '__id.no' not found",
+			"start": "2024-02-11",
+			"finish": "2024-03-03"
+		},
+		"-NqzDlx6B4RHv58WE4gW": {
+			"uid": "b2dd30e8",
+			"category": "firstname",
+			"status": "CompletedVerification",
+			"todo": "error: Field '__firstname' not found",
+			"start": "2024-01-18",
+			"finish": "2024-01-25"
+		},
+		"-NqzDlx83ypuAFda8vst": {
+			"uid": "c3d5921b",
+			"category": "dob",
+			"status": "NotComplatedVerification",
+			"todo": "error: Field '__dob' not found",
+			"start": "2024-02-12",
+			"finish": "2024-03-04"
+		},
+		"-NqzDlx9t_bN23VpMa4F": {
+			"uid": "9ab2555f",
+			"category": "id.no",
+			"status": "NotComplatedVerification",
+			"todo": "error: Field '__id.no' not found",
+			"start": "2024-02-12",
+			"finish": "2024-02-19"
+		},
+		"-NqzDlxBotcFVumKLVVf": {
+			"uid": "ac6c1843",
+			"category": "firstname",
+			"status": "NotComplatedVerification",
+			"todo": "error: Field '__firstname' not found",
+			"start": "2024-02-12",
+			"finish": "2024-03-04"
+		},
+		"-NqzDlxDUsCYes-8IrpE": {
+			"uid": "f3651c1e",
+			"category": "dob",
+			"status": "NotComplatedVerification",
+			"todo": "error: Field '__dob' not found",
+			"start": "2024-01-29",
+			"finish": "2024-02-12"
+		},
+		"-NqzDlxEYO2WlAyZaclz": {
+			"uid": "3078ccec",
+			"category": "id.no",
+			"status": "CompletedVerification",
+			"todo": "error: Field '__id.no' not found",
+			"start": "2024-01-20",
+			"finish": "2024-02-03"
+		},
+		"-NqzDlxGMhncHLfyBuwB": {
+			"uid": "c627753c",
+			"category": "dob",
+			"status": "CompletedVerification",
+			"todo": "error: Field '__dob' not found",
+			"start": "2024-02-05",
+			"finish": "2024-02-12"
+		},
+		"-NqzDlxIhIpGiChilPIH": {
+			"uid": "b066b757",
+			"category": "firstname",
+			"status": "CompletedVerification",
+			"todo": "error: Field '__firstname' not found",
+			"start": "2024-02-05",
+			"finish": "2024-02-19"
+		},
+		"-NqzDlxKA6t2Mz64x52c": {
+			"uid": "ed5b6b48",
+			"category": "lastname",
+			"status": "CompletedVerification",
+			"todo": "error: Field '__lastname' not found",
+			"start": "2024-01-28",
+			"finish": "2024-02-04"
+		},
+		"-NqzDlxNNesuLMrq7cWF": {
+			"uid": "f6c7127f",
+			"category": "dob",
+			"status": "NotComplatedVerification",
+			"todo": "error: Field '__dob' not found",
+			"start": "2024-01-21",
+			"finish": "2024-02-04"
+		},
+		"-NqzDlxPibqJ-omHvqoc": {
+			"uid": "b1824a80",
+			"category": "dob",
+			"status": "CompletedVerification",
+			"todo": "error: Field '__dob' not found",
+			"start": "2024-02-05",
+			"finish": "2024-02-12"
+		},
+		"-NqzDlxRXkmkNDKz6UQJ": {
+			"uid": "4f2ddb56",
+			"category": "firstname",
+			"status": "CompletedVerification",
+			"todo": "error: Field '__firstname' not found",
+			"start": "2024-01-17",
+			"finish": "2024-01-24"
+		},
+		"-NqzDlxTSj1McwUyJfG8": {
+			"uid": "c42610f2",
+			"category": "id.no",
+			"status": "NotComplatedVerification",
+			"todo": "error: Field '__id.no' not found",
+			"start": "2024-02-02",
+			"finish": "2024-02-16"
+		},
+		"-NqzDlxVIz2LSi5j8YPo": {
+			"uid": "4a5fdf35",
+			"category": "lastname",
+			"status": "CompletedVerification",
+			"todo": "error: Field '__lastname' not found",
+			"start": "2024-01-29",
+			"finish": "2024-02-19"
+		},
+		"-NqzDlxX7KdZ1UqiRLKE": {
+			"uid": "b120c6b0",
+			"category": "firstname",
+			"status": "NotComplatedVerification",
+			"todo": "error: Field '__firstname' not found",
+			"start": "2024-02-07",
+			"finish": "2024-02-14"
+		},
+		"-NqzDlx_URcLheacc2Lz": {
+			"uid": "7f04e615",
+			"category": "id.no",
+			"status": "NotComplatedVerification",
+			"todo": "error: Field '__id.no' not found",
+			"start": "2024-02-11",
+			"finish": "2024-02-25"
+		},
+		"-NqzDlxaijjqkHKekDUH": {
+			"uid": "e9ccb6bf",
+			"category": "lastname",
+			"status": "NotComplatedVerification",
+			"todo": "error: Field '__lastname' not found",
+			"start": "2024-01-19",
+			"finish": "2024-02-02"
+		},
+		"-NqzDlxc0rbt9xVuhWHi": {
+			"uid": "466f6231",
+			"category": "lastname",
+			"status": "CompletedVerification",
+			"todo": "error: Field '__lastname' not found",
+			"start": "2024-01-20",
+			"finish": "2024-02-03"
+		},
+		"-NqzDlxeBLnqzioF0cp5": {
+			"uid": "4019f1a0",
+			"category": "firstname",
+			"status": "NotComplatedVerification",
+			"todo": "error: Field '__firstname' not found",
+			"start": "2024-01-22",
+			"finish": "2024-01-29"
+		},
+		"-NqzDlxg2yUk2neibS2o": {
+			"uid": "1c2bbd68",
+			"category": "lastname",
+			"status": "CompletedVerification",
+			"todo": "error: Field '__lastname' not found",
+			"start": "2024-01-30",
+			"finish": "2024-02-20"
+		},
+		"-NqzDlxirGqKrMh7Ob2-": {
+			"uid": "91e737b2",
+			"category": "id.no",
+			"status": "NotComplatedVerification",
+			"todo": "error: Field '__id.no' not found",
+			"start": "2024-02-01",
+			"finish": "2024-02-15"
+		},
+		"-NqzDlxktglvRlzs9fER": {
+			"uid": "b9a6abdb",
+			"category": "dob",
+			"status": "CompletedVerification",
+			"todo": "error: Field '__dob' not found",
+			"start": "2024-02-06",
+			"finish": "2024-02-27"
+		},
+		"-NqzDlxmR6BkX3nZ_oy2": {
+			"uid": "84a89b86",
+			"category": "id.no",
+			"status": "NotComplatedVerification",
+			"todo": "error: Field '__id.no' not found",
+			"start": "2024-01-20",
+			"finish": "2024-02-03"
+		},
+		"-NqzDlxo_1IvRH537FHC": {
+			"uid": "cddb37bb",
+			"category": "firstname",
+			"status": "NotComplatedVerification",
+			"todo": "error: Field '__firstname' not found",
+			"start": "2024-02-09",
+			"finish": "2024-02-16"
+		},
+		"-NqzDlxqxlrRPTM566T6": {
+			"uid": "f5efb6af",
+			"category": "id.no",
+			"status": "CompletedVerification",
+			"todo": "error: Field '__id.no' not found",
+			"start": "2024-02-01",
+			"finish": "2024-02-15"
+		},
+		"-NqzDlxsSbObQpmnF-xu": {
+			"uid": "c7a54665",
+			"category": "firstname",
+			"status": "NotComplatedVerification",
+			"todo": "error: Field '__firstname' not found",
+			"start": "2024-02-02",
+			"finish": "2024-02-16"
+		},
+		"-NqzDlxutHxY-Kt5X406": {
+			"uid": "3f81122e",
+			"category": "lastname",
+			"status": "NotComplatedVerification",
+			"todo": "error: Field '__lastname' not found",
+			"start": "2024-02-02",
+			"finish": "2024-02-16"
+		},
+		"-NqzDlxxrr7XWdjNJxdc": {
+			"uid": "699d408d",
+			"category": "lastname",
+			"status": "NotComplatedVerification",
+			"todo": "error: Field '__lastname' not found",
+			"start": "2024-01-26",
+			"finish": "2024-02-16"
+		},
+		"-NqzDlxzsR1JDi7KX8g6": {
+			"uid": "17385e64",
+			"category": "id.no",
+			"status": "CompletedVerification",
+			"todo": "error: Field '__id.no' not found",
+			"start": "2024-02-06",
+			"finish": "2024-02-13"
+		}
+	}
+}		
