@@ -16,14 +16,15 @@ export function deleteToDoController(itemUid) {
  
 function configureListeners() {
     exitButton.addEventListener('click', onCloseDialog)
-    deleteButton.addEventListener('click', onRemoveToDo)
+    deleteButton.addEventListener('click', onRemoveData)
 }
  
 function onCloseDialog(e) {
     dialog.close()
 }
  
-function onRemoveToDo(e) {
-    console.log(`delete to do item ${uid}`);
+function onRemoveData(e) {
+    console.log(`delete to do item ${uid}`)
+    deleteToDo(uid)
     onCloseDialog()
 }
